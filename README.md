@@ -5,7 +5,7 @@ The open source &amp; public domain luts i made for my usage but now available f
 
 And everything here falls in Public Domain.
 
-All the .json files are the source of these LUTs, These needs the darkyboys/xlut.gen-web (On GitHub) to be opened and modified.
+All the .json files are the source of these LUTs, These needs the [darkyboys/xlut.gen-web](https://github.com/darkyboys/xlut-gen.web) to be opened and modified.
 All the .cube files are the exported Ready to use LUTs if you just want to use them without any customizations.
 
 Thank you.
