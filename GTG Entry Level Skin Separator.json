@@ -1,0 +1,108 @@
+{
+  "brightness": 0,
+  "contrast": 0,
+  "saturation": 0,
+  "temperature": 0,
+  "tint": 0,
+  "curves": {
+    "r": {
+      "mode": "r",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "g": {
+      "mode": "g",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "b": {
+      "mode": "b",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "luma": {
+      "mode": "luma",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    "gamma": {
+      "mode": "rgb",
+      "points": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    }
+  },
+  "mappings": [
+    {
+      "input": [
+        0.5215686274509804,
+        0.33725490196078434,
+        0.22745098039215686
+      ],
+      "output": [
+        0.9019607843137255,
+        0.3803921568627451,
+        0
+      ],
+      "range": 0.13,
+      "soft": true,
+      "opacity": 0.6,
+      "mode": "hue",
+      "restTint": [
+        0,
+        0.23921568627450981,
+        0.27450980392156865
+      ],
+      "restStrength": 0.3
+    }
+  ],
+  "satNodes": [],
+  "globalOverlay": {
+    "enabled": false,
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "opacity": 0
+  }
+}
